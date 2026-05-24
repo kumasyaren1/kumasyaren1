@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yaren Kumaş.
 
-**Senior Computer Engineering Student 🎓 | AI & Web Enthusiast 🚀**
+**Computer Engineering Student 🎓 | AI & Web Enthusiast 🚀**
 
 Welcome to my digital workspace! I'm passionate about exploring modern software technologies, understanding the engineering principles behind them, and building impactful solutions.
 
